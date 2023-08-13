@@ -1,0 +1,71 @@
+body {
+	font-family: 'Happy Monkey', cursive;
+	text-align: center;
+	background: linear-gradient(#bdffd3, #a2d2ff);
+	color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	}
+	
+h1, h3, h4, p  { 
+text-shadow: 0px 0px 3px black;
+}
+
+#puke{
+	background: #bdffd3;
+	padding: 5px 10px;
+	border-radius: 5px; 
+	
+}
+
+.gift-section{
+	margin-top: 50px;
+}
+	
+	
+.WWE{ 
+	margin: 0 auto;
+	width: 400px;
+	height: 400px; 
+	border: 6px solid black;
+	border-radius: 10px;
+	background-image: url("WWE.jpg");
+	background-size: cover;
+}
+
+a {
+	color: white;
+}
+
+#left:hover {
+	background-image: url("crop.gif");
+}
+
+#right:hover {
+	background-image: url("cream.gif");
+}
+
+#footer {
+	font-style: italic;
+	width: 400px;
+	margin: 40px auto 20px;
+}
+
+.open {
+	text-shadow: 0px 0px 3px black;
+}
+
+#header {
+	display: flex; 
+	flex-direction: column; 
+	align-items: center; 
+}
+
+
+
+#macho {
+	width: 400px;
+	border-radius: 50%;
+	border: 5px solid #bdffd3
+}
